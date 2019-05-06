@@ -1,0 +1,16 @@
+﻿  Main.cpp
+Main.cpp(49): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+Main.cpp(178): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+Main.cpp(179): warning C4267: “初始化”: 从“size_t”转换到“unsigned int”，可能丢失数据
+Main.cpp(191): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+Main.cpp(200): warning C4244: “参数”: 从“const float”转换到“int”，可能丢失数据
+Main.cpp(217): warning C4018: “<”: 有符号/无符号不匹配
+Main.cpp(220): warning C4018: “<”: 有符号/无符号不匹配
+Main.cpp(528): warning C4305: “初始化”: 从“double”到“float”截断
+  正在生成代码
+  32 of 1600 functions ( 2.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  ellipse.vcxproj -> F:\研一课程类\机器视觉\ellipse\x64\Release\ellipse.exe
+  ellipse.vcxproj -> F:\研一课程类\机器视觉\ellipse\x64\Release\ellipse.pdb (Full PDB)

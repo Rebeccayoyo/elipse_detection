@@ -1,0 +1,3 @@
+LIBRARY    "testp"  
+EXPORTS  
+        mexFunction 
